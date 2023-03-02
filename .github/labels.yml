@@ -1,0 +1,18 @@
+- color: fef2c0
+  description: Author 可申请锁住当前讨论
+  name: Locked
+- color: 0075ca
+  description: Improvements or additions to documentation
+  name: CNCF
+- color: 5AA8E6
+  description: ""
+  name: Docker
+- color: 0052CC
+  description: ""
+  name: K8S
+- color: "070906"
+  description: ""
+  name: Shell
+- color: bfd4f2
+  description: ""
+  name: 自动化
